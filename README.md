@@ -1,16 +1,37 @@
-# React + Vite
+# Parcial React - Programación Web II
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrantes
 
-Currently, two official plugins are available:
+* Ysea Ivan
+* Richard Lautaro
+* Reynoso María
+* Lautaro Garay
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Descripción del proyecto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Este proyecto consiste en una aplicación web desarrollada con React y Vite que consume la API pública de JSONPlaceholder.
 
-## Expanding the ESLint configuration
+La aplicación permite realizar operaciones CRUD sobre el recurso **posts**:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Listar posts
+* Ver detalle de un post
+* Crear un nuevo post
+* Editar un post existente
+* Eliminar un post
+
+También incluye navegación con React Router y manejo de estado con hooks.
+
+---
+
+## Tecnologías utilizadas
+
+* React
+* Vite
+* JavaScript
+* React Router DOM
+* Fetch API
+* CSS
+
+
