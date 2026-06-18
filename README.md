@@ -1,4 +1,4 @@
-# Parcial React - Programación Web II
+# ParcialReact - Programación Web II
 
 ## Integrantes
 
